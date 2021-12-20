@@ -1,11 +1,4 @@
-## Esse aí sou eu
-
-<b><i> O primeiro e único Felipe Klopper </b></i>
-
-<div>
-<img align="center" alt="spider-man" src="https://64.media.tumblr.com/dcee60f1368d129cb17e5ce4509f07bf/ff681676e2f2a960-3c/s540x810/f5aee9106c9c7f258a8badd1726b6e901063477f.gifv">
-</div>
-<br>
+## Felipe Klopper
 
 - 📚 Graduando em Letras Inglês/Literaturas pela UERJ
 - 📓 Tradutor
