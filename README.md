@@ -3,9 +3,7 @@
 - 📚 Graduando em Letras Inglês/Literaturas pela UERJ
 - 📓 Tradutor
 - 🎸 Músico
-- 👾 Artista 3d amador
-- 🖥️ Futuro DEV
-- 🕸️ Fã incondicional do Homem-Aranha e Star Wars
+- 🖥️ DEV Front-end em desenvolvimento
 
 ## Experiências
 
